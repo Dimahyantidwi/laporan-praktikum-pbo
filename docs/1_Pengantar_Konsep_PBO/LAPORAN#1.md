@@ -18,7 +18,7 @@
 
 ![contoh screenshot](img/nining.png)(img/2.png)
 
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
+Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaDemo.java)
 
 ### Percobaan 2
 
@@ -28,7 +28,7 @@ Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengant
 
 ![contoh screenshot](img/4.png)(img/3.png)
 
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
+Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaGunung.java)
 
 ## Pertanyaan
 
@@ -63,7 +63,7 @@ Jawab : Karena pada class Sepedagunung merupakan turunan dari class sepeda. Kedu
 
 ![contoh screenshot](img/contoh-schot1.PNG)
 
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
+Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Hab.java)
 
 ## Kesimpulan
 
