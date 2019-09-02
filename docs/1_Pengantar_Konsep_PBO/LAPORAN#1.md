@@ -40,6 +40,7 @@ d. Inheritance Disebut juga pewarisan. Inheritance memungkinkan kita untuk mengo
 e. Polimorfisme Polimorfisme juga meniru sifat objek di dunia nyata, dimana sebuah objek dapat memiliki bentuk, atau menjelma menjadi bentuk-bentuk lain. Misalkan saja objek pesawat terbang.
 
 2. Apa yang dimaksud dengan object dan apa bedanya dengan class? 
+
 Jawab : Object adalah pemanfaatan dari class yang siap untuk digunakan, misalnya kita sudah membuat class Roda, yang di dalamnya itu berisi konsep bagaimana Roda itu bisa berjalan, bagaimana Roda itu bisa berputar dan lain-lain, jika semua konsep Roda sudah oke, barulah kita akan dirubah menjadi sebuah Roda yang siap untuk dipakai. Nah itulah yang dinamakan Object Roda. Sedangkan, perbedaannya dengan class Class merupakan kumpulan dari suatu fungsi-fungsi yang dibuat untuk suatu tujuan tertentu. Misalnya kita akan membuat sebuah Mobil. Maka yang perlu kita buatkan adalah beberapa class yang didalamnya berisi fungsi-fungsi yang dapat membuat Mobil itu dapat berjalan sebagaimana mestinya, misalnya class Roda, class Mesin, class Kerangka Mobil, class Body Mobil dan lain lain. 
 contoh yang menjelaskan perbedaan Object dan Class.
 Object: Manusia
@@ -48,15 +49,19 @@ Object: Komputer
 Class: Komputer memiliki layar, prosesor, ram, bisa dimatikan, dihidupkan, bisa memutar musik dan lain-lain.
 
 3. Sebutkan salah satu kelebihan utama dari pemrograman berorientasi objek dibandingkan dengan pemrograman struktural! 
+
 Jawab : Kelebihan PBO adalah program dapat lebih fleksibel dan modular, jika ada perubahan fitur, maka dapat dipastikan keseluruhan program tidak akan terganggu. Berbeda dengan struktural, perubahan sedikit fitur saja kemungkinan dapat mengganggu keseluruhan program.
 
 4. Pada class Sepeda, terdapat state/atribut apa saja? 
+
 Jawab : memiliki state merek, kecepatan, gear dan sebagainya.
 
 5. Tambahkan atribut warna pada class Sepeda. 
+
 Jawab : ! [contoh screenshot] (img/ya.png)
 
 6. Mengapa pada saat kita membuat class SepedaGunung, kita tidak perlu membuat class nya dari nol? 
+
 Jawab : Karena pada class Sepedagunung merupakan turunan dari class sepeda. Keduanya sama, hanya saja pada class sepedagunung terdapat tipe suspense.
 
 
