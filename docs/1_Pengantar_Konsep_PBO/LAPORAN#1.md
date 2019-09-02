@@ -2,11 +2,12 @@
 
 ## Kompetensi
 
-(ketiklah kompetensi tiap praktikum di sini)
+(1. Perbedaan paradigma berorientasi objek dengan paradigma struktural 
+2. Konsep dasar PBO )
 
 ## Ringkasan Materi
 
-(berisi catatan penting pribadi selama praktikum berlangsung ataupun menemukan permasalahan khusus saat melakukan percobaan)
+(Alhamdulillah tidak menemukan masalah khusus tapi cara bikin laporannya ribet banget huft)
 
 ## Percobaan
 
@@ -87,7 +88,7 @@ Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengant
 
 ## Kesimpulan
 
-(Kesimpulan yang saya peroleh yaitu Perbedaan paradigma berorientasi objek dengan paradigma struktural dan Konsep dasar PBO)
+(Kesimpulan yang saya peroleh yaitu Pemrograman Berorientasi Objek ( PBO ) dalam bahasa inggris dikenal dengan Object Oriented Programming adalah sebuah paradigma pemrograman yang memandang penyelesaian masalah berdasarkan objek yang di targetkan atau hendak di buat. Pemrograman ini digunakan dalam beberapa bahasa Pemrograman seperti C++, Pascal, Java, dan lain lain. Pemrograman berorientasi objek sangat kental kaitannya dengan bahasa pemrograman Java, karena java adalah bahasa pemrograman yang menitik beratkan pada Objeck Oriented Programming atau Pemrograman Berorientasi Objek.)
 
 ## Pernyataan Diri
 
