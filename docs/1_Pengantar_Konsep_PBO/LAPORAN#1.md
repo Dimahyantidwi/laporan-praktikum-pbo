@@ -58,7 +58,9 @@ Jawab : memiliki state merek, kecepatan, gear dan sebagainya.
 
 5. Tambahkan atribut warna pada class Sepeda. 
 
-Jawab : ! [contoh screenshot] (img/ya.png)
+Jawab : 
+
+! [contoh screenshot] (img/ya.png)
 
 6. Mengapa pada saat kita membuat class SepedaGunung, kita tidak perlu membuat class nya dari nol? 
 
