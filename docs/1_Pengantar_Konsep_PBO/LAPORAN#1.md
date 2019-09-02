@@ -16,7 +16,7 @@
 
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
-![contoh screenshot](img/nining.png) (img/2.png)
+![contoh screenshot](img/nining.png)(img/2.png)
 
 Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
 
@@ -26,7 +26,7 @@ Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengant
 
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
-![contoh screenshot](img/4.png) (img/3.png)
+![contoh screenshot](img/4.png)(img/3.png)
 
 Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
 
@@ -50,7 +50,10 @@ Jawab : Kelebihan PBO adalah program dapat lebih fleksibel dan modular, jika ada
 4. Pada class Sepeda, terdapat state/atribut apa saja? 
 Jawab : memiliki state merek, kecepatan, gear dan sebagainya.
 5. Tambahkan atribut warna pada class Sepeda. 
-Jawab : ! [contoh screenshot] (img/)
+Jawab : ! [contoh screenshot] (img/ya.png)
+6. Mengapa pada saat kita membuat class SepedaGunung, kita tidak perlu membuat class nya dari nol? 
+Jawab : Karena pada class Sepedagunung merupakan turunan dari class sepeda. Keduanya sama, hanya saja pada class sepedagunung terdapat tipe suspense.
+
 
 ## Tugas
 
