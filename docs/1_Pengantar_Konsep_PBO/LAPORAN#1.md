@@ -77,13 +77,17 @@ Jawab : Karena pada class Sepedagunung merupakan turunan dari class sepeda. Kedu
 
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
-![contoh screenshot](img/contoh-schot1.PNG)
+![contoh screenshot](img/hp1.png)
 
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Hab.java)
+![contoh screenshot](img/hp2.png)
+
+![contoh screenshot](img/hp3.png)
+
+Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/HandphoneNiningMain.java)
 
 ## Kesimpulan
 
-(Berisi simpulan yang telah diperoleh selama praktikum atau belajar pada pertemuan ini)
+(Kesimpulan yang saya peroleh yaitu Perbedaan paradigma berorientasi objek dengan paradigma struktural dan Konsep dasar PBO)
 
 ## Pernyataan Diri
 
@@ -93,4 +97,4 @@ Jika saya melakukan plagiasi, kecurangan, atau melanggar hak kekayaan intelektua
 
 Ttd,
 
-***(silakan isi nama lengkap di sini)***
+DIMAHYANTI DWI LESTARININGSIH
