@@ -60,7 +60,7 @@ Jawab : memiliki state merek, kecepatan, gear dan sebagainya.
 
 Jawab : 
 
-! [contoh screenshot] (img/ya.png)
+![contoh screenshot](img/ya.png)
 
 6. Mengapa pada saat kita membuat class SepedaGunung, kita tidak perlu membuat class nya dari nol? 
 
