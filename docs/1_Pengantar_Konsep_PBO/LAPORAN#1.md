@@ -30,7 +30,7 @@ Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengant
 
 ![contoh screenshot](img/4.png)
 
-![contoh screenshot](img/3.png
+![contoh screenshot](img/3.png)
 
 Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaGunung.java)
 
