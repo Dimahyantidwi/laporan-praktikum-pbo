@@ -51,10 +51,11 @@
 3.  Pendeklarasian method pada program di atas :
     
     public void tampilBiodata() {
-    System.out.println("Nim   : " +nim);
-    System.out.println("Nama  : " +nama);
-    System.out.println("Alamat: " +alamat);
-    System.out.println("Kelas : " +kelas);
+        
+        System.out.println("Nim   : " +nim);
+        System.out.println("Nama  : " +nama);
+        System.out.println("Alamat: " +alamat);
+        System.out.println("Kelas : " +kelas);
 
 ![screenshot](img/5.PNG)
 
