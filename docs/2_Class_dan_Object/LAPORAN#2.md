@@ -21,37 +21,51 @@
 
 ### Percobaan 1
 
-( 1. ![contoh screenshot](img/1.PNG) 
+( 1.
+![screenshot](img/1.PNG) 
+
 2. Class yang bisa dibuat : Karyawan dan Mahasiswa 2 class
+
 3. Class karyawan : +Idkaryawan: int, +nama: String, +jeniskelamin: String, +jabatan: String, +gaji:int
+
 4. tampilData(): void)
 
 ### Percobaan 2
 
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
-![contoh screenshot](img/2.PNG)
+![screenshot](img/2.PNG)
 
-![contoh screenshot](img/3.PNG)
+![screenshot](img/3.PNG)
 
 (2. Pendeklarasian atribut pada program di atas :
+    
     public class Mahasiswa {
     public int nim;
     public String nama;
     public String alamat;
     public String kelas; 
-![contoh screenshot](img/4.PNG)
+
+![screenshot](img/4.PNG)
+
 3.  Pendeklarasian method pada program di atas :
+    
     public void tampilBiodata() {
         System.out.println("Nim   : " +nim);
         System.out.println("Nama  : " +nama);
         System.out.println("Alamat: " +alamat);
         System.out.println("Kelas : " +kelas);
-![contoh screenshot](img/5.PNG)
+
+![screenshot](img/5.PNG)
+
 4. 1 objek yaitu Mahasiswa mhs1 = new Mahasiswa();
+
 5. Yang sebenarnya dilakukan pada sintaks program “mhs1.nim=101" adalah memasukkan data atau nilai pada nim tersebut.
+
 6. Yang sebenarnya dilakukan pada sintaks program “mhs1.tampilBiodata()” adalah menampilkan atau mencetak keselulurahan data yang dimasukkan dalam atribut.
-7. ![contoh screenshot](img/6.PNG) )
+
+7. 
+![screenshot](img/6.PNG) )
 
 Contoh link kode program : [ini contoh link ke kode program](../../src/2_Class_dan_Object/SepedaGunung.java)
 
