@@ -38,7 +38,7 @@
 
 ![screenshot](img/3.PNG)
 
-(2. Pendeklarasian atribut pada program di atas :
+( 2. Pendeklarasian atribut pada program di atas :
     
     public class Mahasiswa {
     public int nim;
@@ -51,10 +51,10 @@
 3.  Pendeklarasian method pada program di atas :
     
     public void tampilBiodata() {
-        System.out.println("Nim   : " +nim);
-        System.out.println("Nama  : " +nama);
-        System.out.println("Alamat: " +alamat);
-        System.out.println("Kelas : " +kelas);
+    System.out.println("Nim   : " +nim);
+    System.out.println("Nama  : " +nama);
+    System.out.println("Alamat: " +alamat);
+    System.out.println("Kelas : " +kelas);
 
 ![screenshot](img/5.PNG)
 
