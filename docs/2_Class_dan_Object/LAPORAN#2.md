@@ -99,15 +99,15 @@ link kode program Barang: [TestBarang.java](../../src/2_Class_dan_Object/TestBar
 
 1. Suatu toko persewaan video game salah satu yang diolah adalah peminjaman, dimana data yang dicatat ketika ada orang yang melakukan peminjaman adalah id, nama member, nama game, dan harga yang harus dibayar. Setiap peminjaman bisa menampilkan data hasil peminjaman dan harga yang harus dibayar. Buatlah class diagram pada studi kasus diatas! 
 
-    ![contoh screenshot](img/09.png)
+    ![contoh screenshot](img/09.PNG)
 
 
 2. Buatlah program dari class diagram yang sudah anda buat di no 1! 
     
-![contoh screenshot](img/10.png)
+![contoh screenshot](img/10.PNG)
 
 
-![contoh screenshot](img/11.png)
+![contoh screenshot](img/11.PNG)
 
 link kode program : [Peminjaman.java](../../src/2_Class_dan_Object/Peminjaman.java)
 
@@ -116,10 +116,10 @@ link kode program Barang: [PeminjamanTest.java](../../src/2_Class_dan_Object/Pem
 
 3. Buatlah program sesuai dengan class diagram berikut ini!
 
-![contoh screenshot](img/12.png)
+![contoh screenshot](img/12.PNG)
 
 
-![contoh screenshot](img/13.png)
+![contoh screenshot](img/13.PNG)
 
 link kode program : [Lingkaran.java](../../src/2_Class_dan_Object/Lingkaran.java)
 
@@ -128,10 +128,10 @@ link kode program Barang: [LingkaranTest.java](../../src/2_Class_dan_Object/Ling
 
 4. Buatlah program dari class diagram berikut ini! 
     
-![contoh screenshot](img/14.png)
+![contoh screenshot](img/14.PNG)
 
 
-![contoh screenshot](img/15.png)
+![contoh screenshot](img/15.PNG)
 
 link kode program : [BarangTgs.java](../../src/2_Class_dan_Object/BarangTgs.java)
 
