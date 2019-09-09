@@ -22,7 +22,9 @@
 
 ### Percobaan 1
 
-1. ![screenshot](img/1.PNG) 
+1. 
+
+![screenshot](img/1.PNG) 
 
 2. Class yang bisa dibuat : Karyawan dan Mahasiswa 2 class
 
@@ -32,6 +34,7 @@
 
 ### Percobaan 2
 
+1. 
 
 ![screenshot](img/2.PNG)
 
@@ -101,38 +104,38 @@ link kode program Barang: [TestBarang.java](../../src/2_Class_dan_Object/TestBar
 
 2. Buatlah program dari class diagram yang sudah anda buat di no 1! 
     
-    ![contoh screenshot](img/10.png)
+![contoh screenshot](img/10.png)
 
 
-    ![contoh screenshot](img/11.png)
+![contoh screenshot](img/11.png)
 
-    link kode program : [Peminjaman.java](../../src/2_Class_dan_Object/Peminjaman.java)
+link kode program : [Peminjaman.java](../../src/2_Class_dan_Object/Peminjaman.java)
 
-    link kode program Barang: [PeminjamanTest.java](../../src/2_Class_dan_Object/PeminjamanTest.java)
+link kode program Barang: [PeminjamanTest.java](../../src/2_Class_dan_Object/PeminjamanTest.java)
 
 
 3. Buatlah program sesuai dengan class diagram berikut ini!
 
-    ![contoh screenshot](img/12.png)
+![contoh screenshot](img/12.png)
 
 
-    ![contoh screenshot](img/13.png)
+![contoh screenshot](img/13.png)
 
-    link kode program : [Lingkaran.java](../../src/2_Class_dan_Object/Lingkaran.java)
+link kode program : [Lingkaran.java](../../src/2_Class_dan_Object/Lingkaran.java)
 
-    link kode program Barang: [LingkaranTest.java](../../src/2_Class_dan_Object/LingkaranTest.java)
+link kode program Barang: [LingkaranTest.java](../../src/2_Class_dan_Object/LingkaranTest.java)
 
 
 4. Buatlah program dari class diagram berikut ini! 
     
-    ![contoh screenshot](img/14.png)
+![contoh screenshot](img/14.png)
 
 
-    ![contoh screenshot](img/15.png)
+![contoh screenshot](img/15.png)
 
-    link kode program : [BarangTgs.java](../../src/2_Class_dan_Object/BarangTgs.java)
+link kode program : [BarangTgs.java](../../src/2_Class_dan_Object/BarangTgs.java)
 
-    link kode program Barang: [BarangTgsTest.java](../../src/2_Class_dan_Object/BarangTgsTest.java)
+link kode program Barang: [BarangTgsTest.java](../../src/2_Class_dan_Object/BarangTgsTest.java)
 
 
 ## Kesimpulan
