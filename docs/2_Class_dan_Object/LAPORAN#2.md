@@ -40,9 +40,9 @@
 
 ![screenshot](img/3.PNG)
 
-link kode program : [Mahasiswa](../../src/2_Class_dan_Object/Mahasiswa.java)
+link kode program : [Mahasiswa.java](../../src/2_Class_dan_Object/Mahasiswa.java)
 
-link kode program Barang: [TestMahasiswa](../../src/2_Class_dan_Object/TestMahasiswa.java)
+link kode program Barang: [TestMahasiswa.java](../../src/2_Class_dan_Object/TestMahasiswa.java)
 
 2. Pendeklarasian atribut pada program di atas :
     
@@ -81,9 +81,9 @@ link kode program Barang: [TestMahasiswa](../../src/2_Class_dan_Object/TestMahas
 
 ![screenshot](img/8.PNG)
 
-link kode program : [Barang](../../src/2_Class_dan_Object/Barang.java)
+link kode program : [Barang.java](../../src/2_Class_dan_Object/Barang.java)
 
-link kode program Barang: [TestBarang](../../src/2_Class_dan_Object/TestBarang.java)
+link kode program Barang: [TestBarang.java](../../src/2_Class_dan_Object/TestBarang.java)
 
 1. Apakah fungsi argumen dalam suatu method?
     
@@ -109,9 +109,9 @@ link kode program Barang: [TestBarang](../../src/2_Class_dan_Object/TestBarang.j
 
 ![contoh screenshot](img/11.PNG)
 
-link kode program : [Peminjaman](../../src/2_Class_dan_Object/Peminjaman.java)
+link kode program : [Peminjaman.java](../../src/2_Class_dan_Object/Peminjaman.java)
 
-link kode program Barang: [PeminjamanTes](../../src/2_Class_dan_Object/PeminjamanTest.java)
+link kode program Barang: [PeminjamanTes.java](../../src/2_Class_dan_Object/PeminjamanTest.java)
 
 
 3. Buatlah program sesuai dengan class diagram berikut ini!
@@ -121,9 +121,9 @@ link kode program Barang: [PeminjamanTes](../../src/2_Class_dan_Object/Peminjama
 
 ![contoh screenshot](img/13.PNG)
 
-link kode program : [Lingkaran](../../src/2_Class_dan_Object/Lingkaran.java)
+link kode program : [Lingkaran.java](../../src/2_Class_dan_Object/Lingkaran.java)
 
-link kode program Barang: [LingkaranTest](../../src/2_Class_dan_Object/LingkaranTest.java)
+link kode program Barang: [LingkaranTest.java](../../src/2_Class_dan_Object/LingkaranTest.java)
 
 
 4. Buatlah program dari class diagram berikut ini! 
@@ -133,9 +133,9 @@ link kode program Barang: [LingkaranTest](../../src/2_Class_dan_Object/Lingkaran
 
 ![contoh screenshot](img/15.PNG)
 
-link kode program : [BarangTgs](../../src/2_Class_dan_Object/BarangTgs.java)
+link kode program : [BarangTgs.java](../../src/2_Class_dan_Object/BarangTgs.java)
 
-link kode program Barang: [BarangTgsTest](../../src/2_Class_dan_Object/BarangTgsTest.java)
+link kode program Barang: [BarangTgsTest.java](../../src/2_Class_dan_Object/BarangTgsTest.java)
 
 
 ## Kesimpulan
