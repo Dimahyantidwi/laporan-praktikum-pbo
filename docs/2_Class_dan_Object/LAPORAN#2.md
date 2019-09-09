@@ -2,11 +2,13 @@
 
 ## Kompetensi
 
-( Mahasiswa dapat memahami deskripsi dari class dan object  Mahasiswa memahami implementasi dari class  Mahasiswa dapat memahami implementasi dari attribute.
+ Mahasiswa dapat memahami deskripsi dari class dan object 
+ Mahasiswa memahami implementasi dari class 
+ Mahasiswa dapat memahami implementasi dari attribute.
  Mahasiswa dapat memahami implementasi dari method. 
  Mahasiswa dapat memahami implementasi dari proses instansiasi. 
  Mahasiswa dapat memahami implementasi dari try-catch. 
- Mahasiswa dapat memahami proses pemodelan class diagram menggunakan UML. )
+ Mahasiswa dapat memahami proses pemodelan class diagram menggunakan UML. 
 
 ## Ringkasan Materi
 
@@ -17,28 +19,29 @@
 3. Abstraksi adalah kemampuan suatu program untuk melewati bagian informasi yang akan diolah olehnya, yaitu kegunaan untuk memfokuskan ke dalam intinya. Proses, fungsi atau cara bisa juga dibuat abstrak, dan beberapa cara untuk dipakai untuk penggembangan program abstrak.
 4.Enkapsulasi adalah pembungkusan data yang memastikan pengguna sebuah objek tidak bisa menukar kondisi dari dalam suatu objek dengan cara yang tidak pantas. Tetapi hanya cara yang terdapat di dalam objek itu yang bisa untuk mengakses keadaan.)
 
-## Percobaan
 
 ### Percobaan 1
 
-( 1.
-![screenshot](img/1.PNG) 
+1. ![screenshot](img/1.PNG) 
 
 2. Class yang bisa dibuat : Karyawan dan Mahasiswa 2 class
 
 3. Class karyawan : +Idkaryawan: int, +nama: String, +jeniskelamin: String, +jabatan: String, +gaji:int
 
-4. tampilData(): void)
+4. tampilData(): void
 
 ### Percobaan 2
 
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
 ![screenshot](img/2.PNG)
 
 ![screenshot](img/3.PNG)
 
-( 2. Pendeklarasian atribut pada program di atas :
+link kode program : [Mahasiswa.java](../../src/2_Class_dan_Object/Mahasiswa.java)
+
+link kode program Barang: [TestMahasiswa.java](../../src/2_Class_dan_Object/TestMahasiswa.java)
+
+2. Pendeklarasian atribut pada program di atas :
     
     public class Mahasiswa {
     public int nim;
@@ -65,61 +68,72 @@
 
 6. Yang sebenarnya dilakukan pada sintaks program “mhs1.tampilBiodata()” adalah menampilkan atau mencetak keselulurahan data yang dimasukkan dalam atribut.
 
-7. 
-![screenshot](img/6.PNG) )
+7. ![screenshot](img/6.PNG) 
 
-Contoh link kode program : [ini contoh link ke kode program](../../src/2_Class_dan_Object/SepedaGunung.java)
 
-## Pertanyaan
 
-(1. Sebutkan dan jelaskan aspek-aspek yang ada pada pemrograman berorientasi objek! 
-Jawab : a. Object Object adalah suatu rangkaian dalam program yang terdiri dari state dan behaviour. Object pada software dimodelkan sedemikian rupa sehingga mirip dengan objek yang ada di dunia nyata. Objek memiliki state dan behaviour.
-b. Class Class adalah blueprint atau prototype dari objek. Ambil contoh objek sepeda.
-c. Enkapsulasi Disebut juga dengan information-hiding. Dalam berinteraksi dengan objek, seringkali kita tidak perlu mengetahui kompleksitas yang ada didalamnya.
-d. Inheritance Disebut juga pewarisan. Inheritance memungkinkan kita untuk mengorganisir struktur program dengan natural.
-e. Polimorfisme Polimorfisme juga meniru sifat objek di dunia nyata, dimana sebuah objek dapat memiliki bentuk, atau menjelma menjadi bentuk-bentuk lain. Misalkan saja objek pesawat terbang.
+### Percobaan 3
 
-2. Apa yang dimaksud dengan object dan apa bedanya dengan class? 
+![screenshot](img/7.PNG)
 
-Jawab : Object adalah pemanfaatan dari class yang siap untuk digunakan, misalnya kita sudah membuat class Roda, yang di dalamnya itu berisi konsep bagaimana Roda itu bisa berjalan, bagaimana Roda itu bisa berputar dan lain-lain, jika semua konsep Roda sudah oke, barulah kita akan dirubah menjadi sebuah Roda yang siap untuk dipakai. Nah itulah yang dinamakan Object Roda. Sedangkan, perbedaannya dengan class Class merupakan kumpulan dari suatu fungsi-fungsi yang dibuat untuk suatu tujuan tertentu. Misalnya kita akan membuat sebuah Mobil. Maka yang perlu kita buatkan adalah beberapa class yang didalamnya berisi fungsi-fungsi yang dapat membuat Mobil itu dapat berjalan sebagaimana mestinya, misalnya class Roda, class Mesin, class Kerangka Mobil, class Body Mobil dan lain lain. 
-contoh yang menjelaskan perbedaan Object dan Class.
-Object: Manusia
-Class: Manusia dapat berjalan, melihat, berlari, memiliki kaki, mata, rambut, hidung, dapat berbicara dan lain-lain.
-Object: Komputer
-Class: Komputer memiliki layar, prosesor, ram, bisa dimatikan, dihidupkan, bisa memutar musik dan lain-lain.
+![screenshot](img/8.PNG)
 
-3. Sebutkan salah satu kelebihan utama dari pemrograman berorientasi objek dibandingkan dengan pemrograman struktural! 
+link kode program : [Barang.java](../../src/2_Class_dan_Object/Barang.java)
 
-Jawab : Kelebihan PBO adalah program dapat lebih fleksibel dan modular, jika ada perubahan fitur, maka dapat dipastikan keseluruhan program tidak akan terganggu. Berbeda dengan struktural, perubahan sedikit fitur saja kemungkinan dapat mengganggu keseluruhan program.
+link kode program Barang: [TestBarang.java](../../src/2_Class_dan_Object/TestBarang.java)
 
-4. Pada class Sepeda, terdapat state/atribut apa saja? 
+1. Apakah fungsi argumen dalam suatu method?
+    
+    Jawab : Kegunaan Argumen didalam sebuah fungsi ialah memberikan nilai yang harus dieksekusi dalam fungsi tersebut.
 
-Jawab : memiliki state merek, kecepatan, gear dan sebagainya.
-
-5. Tambahkan atribut warna pada class Sepeda. 
-
-Jawab : 
-
-![contoh screenshot](img/ya.png)
-
-6. Mengapa pada saat kita membuat class SepedaGunung, kita tidak perlu membuat class nya dari nol? 
-
-Jawab : Karena pada class Sepedagunung merupakan turunan dari class sepeda. Keduanya sama, hanya saja pada class sepedagunung terdapat tipe suspense.
+2.  Ambil kesimpulan tentang kegunaan dari kata kunci return , dan kapan suatu method        harus memiliki return! 
+    
+    Jawab: Kalau fungsi tanpa nilai balik mengunakan void tanpa ada pernyataan return sedangkan fungsi dengan nilai balik memiliki pernyataan return yang tergantung dengan tipe data yang digunakan. Method yang tidak memiliki nilai kembali/return, bisanya digunakan tidak untuk mencari nilai dalam suatu operasi, untuk mendeklarasikannya kita harus menembahkan kata kunci void.
+    
 
 
 ## Tugas
 
-(silakan kerjakan tugas di sini beserta `screenshot` hasil kompilasi program. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
+1. Suatu toko persewaan video game salah satu yang diolah adalah peminjaman, dimana data yang dicatat ketika ada orang yang melakukan peminjaman adalah id, nama member, nama game, dan harga yang harus dibayar. Setiap peminjaman bisa menampilkan data hasil peminjaman dan harga yang harus dibayar. Buatlah class diagram pada studi kasus diatas! 
 
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
+    ![contoh screenshot](img/09.png)
 
-![contoh screenshot](img/hp1.png)
 
-![contoh screenshot](img/hp2.png)
+2. Buatlah program dari class diagram yang sudah anda buat di no 1! 
+    
+    ![contoh screenshot](img/10.png)
 
-![contoh screenshot](img/hp3.png)
 
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/HandphoneNiningMain.java)
+    ![contoh screenshot](img/11.png)
+
+    link kode program : [Peminjaman.java](../../src/2_Class_dan_Object/Peminjaman.java)
+
+    link kode program Barang: [PeminjamanTest.java](../../src/2_Class_dan_Object/PeminjamanTest.java)
+
+
+3. Buatlah program sesuai dengan class diagram berikut ini!
+
+    ![contoh screenshot](img/12.png)
+
+
+    ![contoh screenshot](img/13.png)
+
+    link kode program : [Lingkaran.java](../../src/2_Class_dan_Object/Lingkaran.java)
+
+    link kode program Barang: [LingkaranTest.java](../../src/2_Class_dan_Object/LingkaranTest.java)
+
+
+4. Buatlah program dari class diagram berikut ini! 
+    
+    ![contoh screenshot](img/14.png)
+
+
+    ![contoh screenshot](img/15.png)
+
+    link kode program : [BarangTgs.java](../../src/2_Class_dan_Object/BarangTgs.java)
+
+    link kode program Barang: [BarangTgsTest.java](../../src/2_Class_dan_Object/BarangTgsTest.java)
+
 
 ## Kesimpulan
 
