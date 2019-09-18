@@ -2,22 +2,22 @@
 
 ## Kompetensi
 
- Mahasiswa dapat memahami deskripsi dari class dan object 
- Mahasiswa memahami implementasi dari class 
- Mahasiswa dapat memahami implementasi dari attribute.
- Mahasiswa dapat memahami implementasi dari method. 
- Mahasiswa dapat memahami implementasi dari proses instansiasi. 
- Mahasiswa dapat memahami implementasi dari try-catch. 
- Mahasiswa dapat memahami proses pemodelan class diagram menggunakan UML. 
+- Mahasiswa dapat memahami deskripsi dari class dan object 
+- Mahasiswa memahami implementasi dari class 
+- Mahasiswa dapat memahami implementasi dari attribute.
+- Mahasiswa dapat memahami implementasi dari method. 
+- Mahasiswa dapat memahami implementasi dari proses instansiasi. 
+- Mahasiswa dapat memahami implementasi dari try-catch. 
+- Mahasiswa dapat memahami proses pemodelan class diagram menggunakan UML. 
 
 ## Ringkasan Materi
 
-(Di pemrograman berorientasi objek memiliki beberapa konsep yang sangat mendasar untuk kalian ketahui, antara lain sebagai berikut:
+Di pemrograman berorientasi objek memiliki beberapa konsep yang sangat mendasar untuk kalian ketahui, antara lain sebagai berikut:
 
 1. Class adalah gabungan data dalam satu kesatuan untuk suatu tujuan yang ditentukan. Suatu class itu Greader adalah dasar dari bahan dan struktur dalam pemrograman berorientasi objek tersebut. Sahabat GCI melalui bahan ajar, struktur program akan terkait dengan aspek dalam masalah yang akan diselesaikan melalui program tersebut. Cara ini yang dipakai untuk menyederhanakan masalah pada suatu program.
 2. Objek merupakan perangkat data dan fungsi menjadi kesatuan suatu program komputer. Objek itu ialah dasar dari bentuk dan struktur dalam suatu program pada komputer.
 3. Abstraksi adalah kemampuan suatu program untuk melewati bagian informasi yang akan diolah olehnya, yaitu kegunaan untuk memfokuskan ke dalam intinya. Proses, fungsi atau cara bisa juga dibuat abstrak, dan beberapa cara untuk dipakai untuk penggembangan program abstrak.
-4.Enkapsulasi adalah pembungkusan data yang memastikan pengguna sebuah objek tidak bisa menukar kondisi dari dalam suatu objek dengan cara yang tidak pantas. Tetapi hanya cara yang terdapat di dalam objek itu yang bisa untuk mengakses keadaan.)
+4.Enkapsulasi adalah pembungkusan data yang memastikan pengguna sebuah objek tidak bisa menukar kondisi dari dalam suatu objek dengan cara yang tidak pantas. Tetapi hanya cara yang terdapat di dalam objek itu yang bisa untuk mengakses keadaan.
 
 
 ### Percobaan 1
@@ -71,7 +71,8 @@ link kode program Barang: [TestMahasiswa.java](../../src/2_Class_dan_Object/Test
 
 6. Yang sebenarnya dilakukan pada sintaks program “mhs1.tampilBiodata()” adalah menampilkan atau mencetak keselulurahan data yang dimasukkan dalam atribut.
 
-7. ![screenshot](img/6.PNG) 
+7. 
+![screenshot](img/6.PNG) 
 
 
 
@@ -140,7 +141,7 @@ link kode program Barang: [BarangTgsTest.java](../../src/2_Class_dan_Object/Bara
 
 ## Kesimpulan
 
-(Kesimpulan yang saya peroleh yaitu Pemrograman Berorientasi Objek ( PBO ) dalam bahasa inggris dikenal dengan Object Oriented Programming adalah sebuah paradigma pemrograman yang memandang penyelesaian masalah berdasarkan objek yang di targetkan atau hendak di buat. Pemrograman ini digunakan dalam beberapa bahasa Pemrograman seperti C++, Pascal, Java, dan lain lain. Pemrograman berorientasi objek sangat kental kaitannya dengan bahasa pemrograman Java, karena java adalah bahasa pemrograman yang menitik beratkan pada Objeck Oriented Programming atau Pemrograman Berorientasi Objek.)
+Kesimpulan yang saya peroleh yaitu Pemrograman Berorientasi Objek ( PBO ) dalam bahasa inggris dikenal dengan Object Oriented Programming adalah sebuah paradigma pemrograman yang memandang penyelesaian masalah berdasarkan objek yang di targetkan atau hendak di buat. Pemrograman ini digunakan dalam beberapa bahasa Pemrograman seperti C++, Pascal, Java, dan lain lain. Pemrograman berorientasi objek sangat kental kaitannya dengan bahasa pemrograman Java, karena java adalah bahasa pemrograman yang menitik beratkan pada Objeck Oriented Programming atau Pemrograman Berorientasi Objek.
 
 ## Pernyataan Diri
 
