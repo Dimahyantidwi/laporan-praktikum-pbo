@@ -205,9 +205,10 @@ Jawab : karena index array selalu dimulai dari 0, oleh karena itu nilai nomer ha
 4.	Intansiasi object baru budi dengan tipe Penumpang, kemudian masukan object baru tersebut pada gerbong dengan gerbong.setPenumpang(budi,1). Apakah yang terjadi?
 
 Jawab : 
-- Kode program : ![screenshot](img/prtnypb4.PNG) 
-
-- Outputnya : ![screenshot](img/prtnypb4a.PNG) 
+- Kode program : 
+![screenshot](img/prtnypb4.PNG) 
+- Outputnya : 
+![screenshot](img/prtnypb4a.PNG) 
 
 
 ## Tugas
