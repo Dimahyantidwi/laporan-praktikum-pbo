@@ -46,6 +46,7 @@ Jawab : bila konstruktor default, untuk memberi nilai menggunakan setter, tetapi
 Jawab : proc, karena inisiasi tipe variabel ditandai dengan nama object.
 
 4.	Perhatikan class Laptop, pada baris manakah yang menunjukan bahwa class Laptop memiliki relasi dengan class Processor?
+
 Jawab :  Terlihat jelas pada constructor, terdapat parameter yang menggunakan object Processor yang telah diinisiasi sebelumnya.
 ![screenshot](img/prtnypb1.PNG)
 
