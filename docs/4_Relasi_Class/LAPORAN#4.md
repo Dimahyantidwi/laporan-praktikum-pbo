@@ -90,6 +90,7 @@ link kode program Barang: [MainPecobaan21841720132Nining.java](../../src/4_Relas
 1.	Perhatikan class Pelanggan. Pada baris program makanan yang menunjukan bahwa class Pelanggan memiliki relasi dengan class Mobil dan class Sopir?
 
 Jawab :  Dapat dilihat pada inisiasi  variabel object di class pelanggan.
+
 ![screenshot](img/prtnypb2.PNG)
     
 2.	Perhatikan method hitungBiayaSopir pada class Sopir, serta method hitungBiayaMobil pada calss Mobil. Mengapa menurut anda method tersebut harus memiliki argument hari?
@@ -143,7 +144,8 @@ Jawab : digunakan untuk memanggil method Info yang berada di class Pegawai melal
 
 2.	Buatlah main program baru dengan nama class MainPertanyaan pada package yang sama. Tambahkan kode berikut pada method main()
 
-Jawab : ![screenshot](img/prtnypb3no.2.PNG)
+Jawab : 
+![screenshot](img/prtnypb3no.2.PNG)
 
 3.	Apakah hasil output dari main program tersebut? Mengapa hal tersebut dapat terjadi?
 
@@ -155,6 +157,7 @@ Dapat dilihat dalam gambar diatas karane ada variabel yang tidak bernilai atau d
 Jawab :  
 - perbaiki class KeretaApi
 ![screenshot](img/prtnypb3no.4.PNG)
+
 - Cek output:
 ![screenshot](img/prtnypb3no.5.PNG)
 
@@ -203,6 +206,7 @@ Jawab : karena index array selalu dimulai dari 0, oleh karena itu nilai nomer ha
 
 Jawab : 
 - Kode program : ![screenshot](img/prtnypb4.PNG) 
+
 - Outputnya : ![screenshot](img/prtnypb4a.PNG) 
 
 
