@@ -48,6 +48,7 @@ Jawab : proc, karena inisiasi tipe variabel ditandai dengan nama object.
 4.	Perhatikan class Laptop, pada baris manakah yang menunjukan bahwa class Laptop memiliki relasi dengan class Processor?
 
 Jawab :  Terlihat jelas pada constructor, terdapat parameter yang menggunakan object Processor yang telah diinisiasi sebelumnya.
+
 ![screenshot](img/prtnypb1.PNG)
 
 5.	Perhatikan class Laptop, apakah guna dari sintaks proc.Info()?
@@ -156,9 +157,11 @@ Dapat dilihat dalam gambar diatas karane ada variabel yang tidak bernilai atau d
 
 Jawab :  
 - perbaiki class KeretaApi
+
 ![screenshot](img/prtnypb3no.4.PNG)
 
 - Cek output:
+
 ![screenshot](img/prtnypb3no.5.PNG)
 
 ### Percobaan 4
@@ -206,8 +209,11 @@ Jawab : karena index array selalu dimulai dari 0, oleh karena itu nilai nomer ha
 
 Jawab : 
 - Kode program : 
+
 ![screenshot](img/prtnypb4.PNG) 
+
 - Outputnya : 
+
 ![screenshot](img/prtnypb4a.PNG) 
 
 
