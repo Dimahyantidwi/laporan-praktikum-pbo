@@ -74,6 +74,7 @@ link kode program : [Utama1841720132nining.java](../../src/7_Overriding_dan_Over
 
 Jawab : 
 ![screenshot](img/prtny1.PNG)
+
 Terdapat overloading, terdapat 2 parameter yang digunakan dalam method, yaitu terdapat pada baris ke-2 dan ke-4. 
  
 2. Jika terdapat overloading ada berapa jumlah parameter yang berbeda?
@@ -84,6 +85,7 @@ Jawab : Terdapat 2 parameter yang digunakan dalam method, yaitu terdapat pada ba
 
 Jawab:
 ![screenshot](img/prtny2.PNG)
+
 Overloading terdapat di syntax ke-2 dan ke-4. 
 
 4. Jika terdapat overloading ada berapa tipe parameter yang berbeda? 
@@ -97,6 +99,7 @@ Jawab: Parameter yang 1 menggunakan tipe parameter integer dan parameter yang ke
 
 Jawab: 
 ![screenshot](img/prtny4.PNG)
+
 Terletak yaitu pada method swim() di class Piranha. 
 
 2. Jabarkanlah apabila sourcoding diatas jika terdapat overriding? 
@@ -113,9 +116,11 @@ Implementasikan konsep overloading pada class diagram dibawah ini :
  Jawab: 
  
  - Class Segitiga
+
  ![screenshot](img/tgsa.PNG)
 
  - Class Main Segitiga
+
  ![screenshot](img/tgsb.PNG)
 
 link kode program : [Segitiga1841720132nining.java](../../src/7_Overriding_dan_Overloading/Segitiga1841720132nining.java)
@@ -130,15 +135,19 @@ Implementasikan class diagram dibawah ini dengan menggunakan teknik dynamic meth
 Jawab: 
  
  - Class Manusia
+
  ![screenshot](img/tgsc.PNG)
 
  - Class Main Dosen
+
  ![screenshot](img/tgsd.PNG)
 
   - Class Main Mahasiswa
+
  ![screenshot](img/tgse.PNG)
 
   - Class Main Main
+
  ![screenshot](img/tgsf.PNG)
 
 link kode program : [Manusia1841720132nining.java](../../src/7_Overriding_dan_Overloading/Manusia1841720132nining.java)
