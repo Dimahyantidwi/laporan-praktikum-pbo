@@ -10,14 +10,14 @@
 
 ## Ringkasan Materi
 
-List
-List adalah jenis array yang membolehkan adanya value duplicate atau nilai yang sama dalam index yang berbeda. List memiliki beberapa fungsi-fungsi yang cukup membantu dalam proses pengolahan nilai-nilai seperti fungsi clear() untuk menghapus semua element atau value pada list, melakukan insert value pada index element tertentu dengan fungsi add(int index, Object element), menghapus value pada index element tertentu dengan fungsi remove(int index) dan masih banyak lagi fungsi lainnya yang mungkin bisa menjawab sesuai kebutuhan kita.
+- List
+adalah jenis array yang membolehkan adanya value duplicate atau nilai yang sama dalam index yang berbeda. List memiliki beberapa fungsi-fungsi yang cukup membantu dalam proses pengolahan nilai-nilai seperti fungsi clear() untuk menghapus semua element atau value pada list, melakukan insert value pada index element tertentu dengan fungsi add(int index, Object element), menghapus value pada index element tertentu dengan fungsi remove(int index) dan masih banyak lagi fungsi lainnya yang mungkin bisa menjawab sesuai kebutuhan kita.
 
-Set
-Set adalah jenis array yang tidak membolehkan adanya value duplicate, saat ada insert value yang sudah ada sebelumnya, maka value itu akan terotomatisasi dibuang salah satunya dan akhirnya value tersebut hanya tetap ada satu saja. Set juga memiliki beberapa fungsi yang cukup membantu, seperti clear(), add (Object e), remove(Object e) dan masih banyak lagi fungsi-fungsi lainnya jika teman-teman ingin lebih mengeksplorasi sendiri.
+- Set
+adalah jenis array yang tidak membolehkan adanya value duplicate, saat ada insert value yang sudah ada sebelumnya, maka value itu akan terotomatisasi dibuang salah satunya dan akhirnya value tersebut hanya tetap ada satu saja. Set juga memiliki beberapa fungsi yang cukup membantu, seperti clear(), add (Object e), remove(Object e) dan masih banyak lagi fungsi-fungsi lainnya jika teman-teman ingin lebih mengeksplorasi sendiri.
 
-Map
-Map adalah jenis array yang indexnya tidak hanya nilai integer 0,1,2 dan seterusnya, melainkan kita dapat melakukan custom pada nilai indexnya, asalkan nilai indexnya adalah selalu unik. Pada jenis array ini masih memiliki kemungkinan terdapat value yang sama (duplicate), karena pada Map ini lebih menekankan index yang harus unik. Jika di dalam pemrograman PHP, kita sering juga menyebut tipe array berjenis ini adalah array asosiatif, selalu memiliki index atau key kemudian value. Map juga memiliki fungsi-fungsi yang cukup membantu seperti clear(), put(Object key, Object value), containsKey(Object key) yaitu mengecek apakah ada elemen pada Map berdasarkan Key atau indexnya, containsValue(Object value) yaitu mengecek apakah ada elemen pada Map berdasarkan Value.
+- Map
+adalah jenis array yang indexnya tidak hanya nilai integer 0,1,2 dan seterusnya, melainkan kita dapat melakukan custom pada nilai indexnya, asalkan nilai indexnya adalah selalu unik. Pada jenis array ini masih memiliki kemungkinan terdapat value yang sama (duplicate), karena pada Map ini lebih menekankan index yang harus unik. Jika di dalam pemrograman PHP, kita sering juga menyebut tipe array berjenis ini adalah array asosiatif, selalu memiliki index atau key kemudian value. Map juga memiliki fungsi-fungsi yang cukup membantu seperti clear(), put(Object key, Object value), containsKey(Object key) yaitu mengecek apakah ada elemen pada Map berdasarkan Key atau indexnya, containsValue(Object value) yaitu mengecek apakah ada elemen pada Map berdasarkan Value.
 
 ## Praktikum
 
@@ -202,7 +202,7 @@ Jawab : Menjalankan method buka_koneksi(); lalu ditambahkan String sqlkode yang 
 
 Jawab : Menjalankan method model.getDataVector( .removeAllElements(); model.fireTableDataChanged(); lalu mengeksekusi perintah yang ada pada dalam try, apabila ada kesalah atau gagal maka yg tereksekusi adalah cathc 10 Buat fungsi untuk merefresh sehingga data yang baru dapat ditampilkan pada tabel.
 
-Jawab : Private void jButtonRefreshActionPerformed(java.awt.event.ActionEvent evt){
+Jawab : Private void jButtonRefreshActionPerforme (java.awt.event.ActionEvent evt){
 ambil_data_tabel();
 }
 
